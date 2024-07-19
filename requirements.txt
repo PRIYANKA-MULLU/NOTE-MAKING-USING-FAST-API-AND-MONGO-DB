@@ -1,0 +1,6 @@
+pydantic
+fastapi
+pyjwt
+pymongo
+uvicorn
+bcrypt
